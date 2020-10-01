@@ -190,5 +190,6 @@ A row that has pee of poop needs to have a time to count as one.
 
 # Graphs
 <img src=FeedsVersusDay.PNG>
-<img src=“https://github.com/KrisKasprzak/ILI9341_t3_controls”>
-<img src=“https://github.com/KrisKasprzak/ILI9341_t3_controls”>
+<img src=DiaperChangesVersusDay.PNG>
+<img src=FeedsAndDiaperChanges.PNG>
+
