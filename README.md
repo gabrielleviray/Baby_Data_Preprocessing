@@ -1,12 +1,14 @@
 # Baby_Data_Preprocessing
+We are given data of each day when a baby pees, poos, and eats in a given hour. To process the data, I first cleaned the data by fixing typos, and getting rid of invalid 
+recordings. Then, using the Python module 'Xlsx Writer,' I generated three graphs that shows Total Feeds Per Day, Total Diaper Changes Per Day, and Both Total Feeds and Total Diaper Changes Per Day(used to observe the relationship between feeding and diaper changing).
 
-# QUESTIONS:
+# QUESTIONS ANSWERED:
     # How many total feeds are there?
         # ANSWER: 776 total feeds
     # How many total diaper changes?
         # ANSWER: 1123 diaper changes
     # What day had the most actions in a given hour (diaper changes + feeds)?
-        # ASSUMPTION: Compare the total actions of each day in a given hour.
+        # ASSUMPTION: Compare the total actions of each day in a given hour and list the dates for each given hour with the most actions.
         # ANSWER:
             # List of dates with the most actions within a given hour:                            
             # {                                         
