@@ -181,9 +181,9 @@ recordings. Then, using the Python module 'Xlsx Writer,' I generated three graph
         # ANSWER: Need to install 'xlsxwriter package'. Open Graph.xlsx 
 
 # Assume the following
-# A row that has the terms pee or poop as one diaper change.
-# Any row that is under a date that does not have a time slot can be ignored (see example below: ignore line 2)
+#A row that has the terms pee or poop as one diaper change.
+#Any row that is under a date that does not have a time slot can be ignored (see example below: ignore line 2)
     #1034 pee
     #Notice redness behind ear
     #1050 poo
-# A row that has pee of poop needs to have a time to count as one.
+#A row that has pee of poop needs to have a time to count as one.
